@@ -1,7 +1,7 @@
 <h1 align="center">Yo 👋, this is Sumir's profile</h1>
 <h3 align="center">I am currently studying IT and learning web development</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sumir123&label=Profile%20views&color=0e75b6&style=flat" alt="sumir123" /> </p>
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: <a href = "mailto: sumir.bhandari11@gmail.com">sumir.bhandari11@gmail.com</a> </h3>
 <p align="left"></p>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
