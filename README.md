@@ -48,6 +48,10 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/>
   </a> 
 </p>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sumir123" alt="sumir123" /></a> </p>
+<p align="center">
+   <a href="https://github.com/ryo-ma/github-profile-trophy">
+   <img src="https://github-profile-trophy.vercel.app/?username=sumir123" alt="sumir123" />
+   </a> 
+</p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sumir123&show_icons=true&locale=en" alt="sumir123" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sumir123&" alt="sumir123" /></p>
