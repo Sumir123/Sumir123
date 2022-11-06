@@ -50,7 +50,7 @@
 </p>
 <p align="center">
    <a href="https://github.com/ryo-ma/github-profile-trophy">
-   <img src="https://github-profile-trophy.vercel.app/?username=sumir123" alt="sumir123"  width="70" />
+   <img src="https://github-profile-trophy.vercel.app/?username=sumir123" alt="sumir123"  width="200" />
    </a> 
 </p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sumir123&show_icons=true&locale=en" alt="sumir123" /></p>
