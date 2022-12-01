@@ -12,7 +12,7 @@
 - ❓ Ask me about anything related to MERN stack and related technologies  
   
 
-- ⏰ wake up  🍗 eat  👨‍💻 code  🛌 sleep  🔁 repeat   
+-   🍗 eat  👨‍💻 code  📺 Watch FIFA WORLD CUP   🔁 repeat   
   
 
 <br/>  
