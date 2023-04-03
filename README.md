@@ -12,7 +12,7 @@
 - ❓ Ask me about anything related to MERN stack and related technologies  
   
 
--   🍗 eat  👨‍💻 code  📺 Watch FIFA WORLD CUP   🔁 repeat   
+-   🍗 eat  👨‍💻 code  🎸 Music    🔁 repeat   
   
 
 <br/>  
