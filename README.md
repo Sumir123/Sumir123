@@ -1,5 +1,10 @@
 # 💫 About Me:
-👋 BCA student @Trivhuban Univ. <br><br>🌐 Web Dev enthusiast: HTML, CSS, JS, Python. <br><br>🛠️ Explored: Node.js, React.js, Next.js, MERN, Flask. <br><br>📊 DB: MySQL, MongoDB. <br><br>🌱 Upgrading my Full Stack Skills .<br><br><br>📫 sumir.bhandari11@gmail.com<br>
+👋 BCA student @Trivhuban Univ. <br><br>
+🔭 Web Dev enthusiast: HTML, CSS, JS, Python. <br><br>
+🛠️ Explored: Node.js, React.js, Next.js, MERN, Flask. <br><br>
+📊 DB: MySQL, MongoDB. <br><br>
+🌱 Upgrading my Full Stack Skills .<br><br>
+🌐 https://www.sumir.com.np<br><br>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sumir-bhandari) 
