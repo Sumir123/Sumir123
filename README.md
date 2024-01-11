@@ -1,65 +1,51 @@
-# 💫 About Me:
-👋 BCA student @Trivhuban Univ. <br><br>
-🔭 Web Dev enthusiast: HTML, CSS, JS, Python. <br><br>
-🛠️ Explored: Node.js, React.js, Next.js, MERN, Flask. <br><br>
-📊 DB: MySQL, MongoDB. <br><br>
-🌱 Upgrading my Full Stack Skills .<br><br>
-🌐 https://www.sumir.com.np<br><br>
+<!-- Header Section -->
+<p align="center">
+  <img width="70%" src="https://github.com/Sumir123/Sumir123/assets/71181873/47528361-1e4b-479d-92b0-b69d6aa1cb75" alt="Sumir Bhandari Banner" />
+</p>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sumir-bhandari) 
+<p align="center">Web Developer | Code Enthusiast | Lifelong Learner</p>
 
-# 💻 Tech Stack:
+<!-- Social Links -->
+<p align="center">
+  <a href="https://www.linkedin.com/in/sumir-bhandari" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/Sumir123" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="mailto:sumir.bhandari11@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
-## Frontend:
+<!-- Skills Section -->
+<h2 align="center">🚀 Skills</h2>
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+</p>
 
-- ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-- ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-- ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-- ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-- ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-- ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
-- ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+<!-- Current Focus Section -->
+<h2 align="center">🌱 Current Focus</h2>
+<p align="center">Continuously upgrading my Full Stack skills and exploring new technologies.</p>
 
-## Backend:
+<!-- Portfolio Section -->
+<h2 align="center">🌐 Portfolio</h2>
+<p align="center">Check out my projects at <a href="https://sumir.com.np" target="_blank">sumir.com.np</a></p>
 
-- ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-- ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-- ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-- ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
-- ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+<!-- GitHub Stats Section -->
+<h2 align="center">📊 GitHub Stats</h2>
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sumir123&langs_count=8&theme=dark" alt="Sumir123" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sumir123&show_icons=true&locale=en&theme=dark" alt="Sumir123" />
+</p>
 
-## Database:
-
-- ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-- ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-
-## Other Technologies:
-
-- ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-- ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-
-## Design:
-
-- ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Sumir123&theme=dark&hide_border=false&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Sumir123&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sumir123&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Sumir123&theme=radical&no-frame=true&no-bg=false&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
-
-
-## How to Reach Me:
-- Email: sumir.bhandari11@gmail.com
-- LinkedIn: [sumir-bhandari](https://linkedin.com/in/sumir-bhandari)
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sumir123&label=Profile%20views&color=0e75b6&style=flat" alt="sumir123" /> </p>
+<!-- Streak Stats Section -->
+<p align="center">
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Sumir123&theme=dark" alt="Sumir123" />
+</p>
